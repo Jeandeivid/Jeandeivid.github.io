@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Biblioteca de Terror</title>
+        <link>https://jeandeivid.github.io</link>
+        <description>Adéntrate en los mundos oscuros de Lovecraft y King</description>
+        <language>es-ES</language>
+        <image>
+            <title>Biblioteca de Terror</title>
+            <url>https://jeandeivid.github.io/images/biblioteca-gigante-antigua.jpg</url>
+            <link>https://jeandeivid.github.io</link>
+            <width>90</width>
+            <height>36</height>
+        </image>
+
+        <item>
+            <title>La Llamada de Cthulhu - H.P. Lovecraft</title>
+            <link>https://jeandeivid.github.io/catalogo.html#lovecraft</link>
+            <description>El relato más famoso del autor, que dio origen al mito de Cthulhu.</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://m.media-amazon.com/images/I/612qnEVCNaL._AC_UF1000,1000_QL80_.jpg" length="12216320" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>El Resplandor - Stephen King</title>
+            <link>https://jeandeivid.github.io/catalogo.html#king</link>
+            <description>Una familia aislada en un hotel de montaña enfrenta horrores sobrenaturales.</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://m.media-amazon.com/images/I/91n8sen+w1L.jpg" length="12216320" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>El Horror de Dunwich - H.P. Lovecraft</title>
+            <link>https://jeandeivid.github.io/catalogo.html#lovecraft</link>
+            <description>Una historia sobre antiguos dioses y terrores cósmicos en un pueblo de Nueva Inglaterra.</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://pictures.abebooks.com/isbn/9781979967273-es.jpg" length="12216320" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>En las Montañas de la Locura - H.P. Lovecraft</title>
+            <link>https://jeandeivid.github.io/catalogo.html#lovecraft</link>
+            <description>Una expedición a la Antártida descubre horrores primordiales congelados en el hielo.</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://www.valdemar.com/wp-content/uploads/CD-216.jpg" length="12216320" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>It - Stephen King</title>
+            <link>https://jeandeivid.github.io/catalogo.html#king</link>
+            <description>Una antigua presencia maligna aterroriza a un grupo de amigos en Derry, Maine.</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://m.media-amazon.com/images/I/81HKMoh8m0L._UF1000,1000_QL80_.jpg" length="12216320" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>Cementerio de Animales - Stephen King</title>
+            <link>https://jeandeivid.github.io/catalogo.html#king</link>
+            <description>Una historia sobre la muerte y las consecuencias de intentar burlarla.</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://m.media-amazon.com/images/I/71c6OobS9jL._AC_UF894,1000_QL80_.jpg" length="12216320" type="image/jpeg"/>
+        </item>
+
+        <item>
+            <title>Tutorial para principiantes</title>
+            <link>https://jeandeivid.github.io/servicios.html</link>
+            <description>Análisis detallados de los clásicos de terror para principiantes. Video de YouTube: https://www.youtube.com/watch?v=4_LicJ0ZGn8</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://img.youtube.com/vi/4_LicJ0ZGn8/maxresdefault.jpg" length="12216320" type="image/jpeg"/>
+            <guid>https://www.youtube.com/watch?v=4_LicJ0ZGn8</guid>
+        </item>
+
+        <item>
+            <title>Entrevistas con Autores</title>
+            <link>https://jeandeivid.github.io/servicios.html</link>
+            <description>Conversaciones exclusivas con escritores del género. Video de YouTube: https://www.youtube.com/watch?v=dcZkgvYI5B4</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://img.youtube.com/vi/dcZkgvYI5B4/maxresdefault.jpg" length="12216320" type="image/jpeg"/>
+            <guid>https://www.youtube.com/watch?v=dcZkgvYI5B4</guid>
+        </item>
+
+        <item>
+            <title>Documentales</title>
+            <link>https://jeandeivid.github.io/servicios.html</link>
+            <description>Explora la historia y evolución de la literatura de terror. Video de YouTube: https://www.youtube.com/watch?v=WoGo8OqVyZg</description>
+            <pubDate>Fri, 23 Feb 2025 12:00:00 GMT</pubDate>
+            <enclosure url="https://img.youtube.com/vi/WoGo8OqVyZg/maxresdefault.jpg" length="12216320" type="image/jpeg"/>
+            <guid>https://www.youtube.com/watch?v=WoGo8OqVyZg</guid>
+        </item>
+    </channel>
+</rss>
