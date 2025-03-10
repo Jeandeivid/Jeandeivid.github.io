@@ -437,6 +437,11 @@ input, textarea {
     color: var(--accent-color);
 }
 
+.rss-footer img {
+    width: 20px;
+    height: 20px;
+}
+
 /* Animación */
 @keyframes fadeIn {
     from {
