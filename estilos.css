@@ -551,4 +551,7 @@ input, textarea {
     .servicios-grid {
         grid-template-columns: 1fr;
     }
+    .rss-footer img {
+        width: 16px;
+    }
 }
